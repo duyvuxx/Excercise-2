@@ -2,7 +2,6 @@ header {
   width: 30rem;
   height: 20rem;
   line-height: 20rem;
-
   font-size: 2rem;
   font-weight: bold;
   text-align: center;
@@ -14,7 +13,6 @@ main {
   height: 10rem;
   line-height: 10rem;
   margin-top: 2rem;
-
   font-size: 2rem;
   font-weight: bold;
   text-align: center;
@@ -27,7 +25,6 @@ footer {
   height: 20rem;
   line-height: 20rem;
   margin-top: 2rem;
-
   font-size: 2rem;
   font-weight: bold;
   text-align: center;
